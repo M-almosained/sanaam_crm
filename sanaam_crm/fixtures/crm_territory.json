@@ -1,0 +1,35 @@
+[
+ {
+  "docstatus": 0,
+  "doctype": "CRM Territory",
+  "is_group": 0,
+  "modified": "2025-04-18 17:09:47.143001",
+  "name": "Large Enterprise",
+  "old_parent": null,
+  "parent_crm_territory": null,
+  "territory_manager": null,
+  "territory_name": "Large Enterprise"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "CRM Territory",
+  "is_group": 0,
+  "modified": "2025-04-18 17:09:47.144097",
+  "name": "SME",
+  "old_parent": null,
+  "parent_crm_territory": null,
+  "territory_manager": null,
+  "territory_name": "SME"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "CRM Territory",
+  "is_group": 0,
+  "modified": "2025-04-18 17:09:47.089620",
+  "name": "Gov",
+  "old_parent": null,
+  "parent_crm_territory": null,
+  "territory_manager": null,
+  "territory_name": "Gov"
+ }
+]
