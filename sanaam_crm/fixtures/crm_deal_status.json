@@ -1,0 +1,92 @@
+[
+ {
+  "color": "red",
+  "deal_status": "Dropped",
+  "docstatus": 0,
+  "doctype": "CRM Deal Status",
+  "modified": "2025-04-18 17:02:13.898577",
+  "name": "Dropped",
+  "position": 8
+ },
+ {
+  "color": "blue",
+  "deal_status": "Own",
+  "docstatus": 0,
+  "doctype": "CRM Deal Status",
+  "modified": "2025-04-18 17:12:43.188453",
+  "name": "Own",
+  "position": 10
+ },
+ {
+  "color": "orange",
+  "deal_status": "Demo/Making",
+  "docstatus": 0,
+  "doctype": "CRM Deal Status",
+  "modified": "2025-03-20 03:05:32.291596",
+  "name": "Demo/Making",
+  "position": 2
+ },
+ {
+  "color": "purple",
+  "deal_status": "Ready to Close",
+  "docstatus": 0,
+  "doctype": "CRM Deal Status",
+  "modified": "2025-03-20 03:05:32.293633",
+  "name": "Ready to Close",
+  "position": 5
+ },
+ {
+  "color": "blue",
+  "deal_status": "Own Ongoing",
+  "docstatus": 0,
+  "doctype": "CRM Deal Status",
+  "modified": "2025-04-18 17:05:32.114455",
+  "name": "Own Ongoing",
+  "position": 9
+ },
+ {
+  "color": "yellow",
+  "deal_status": "Negotiation",
+  "docstatus": 0,
+  "doctype": "CRM Deal Status",
+  "modified": "2025-03-20 03:05:32.292967",
+  "name": "Negotiation",
+  "position": 4
+ },
+ {
+  "color": "blue",
+  "deal_status": "Proposal/Quotation",
+  "docstatus": 0,
+  "doctype": "CRM Deal Status",
+  "modified": "2025-03-20 03:05:32.292282",
+  "name": "Proposal/Quotation",
+  "position": 3
+ },
+ {
+  "color": "red",
+  "deal_status": "Lost",
+  "docstatus": 0,
+  "doctype": "CRM Deal Status",
+  "modified": "2025-03-20 03:05:32.294938",
+  "name": "Lost",
+  "position": 7
+ },
+ {
+  "color": "green",
+  "deal_status": "Won",
+  "docstatus": 0,
+  "doctype": "CRM Deal Status",
+  "modified": "2025-03-20 03:05:32.294286",
+  "name": "Won",
+  "position": 6
+ },
+ {
+  "color": "gray",
+  "deal_status": "Qualification",
+  "docstatus": 0,
+  "doctype": "CRM Deal Status",
+  "modified": "2025-03-20 03:05:32.290860",
+  "name": "Qualification",
+  "position": 1
+ }
+]

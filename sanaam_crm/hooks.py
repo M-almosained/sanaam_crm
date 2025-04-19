@@ -4,7 +4,7 @@ app_publisher = "f"
 app_description = "f"
 app_email = "m.almosained@sanaam.sa"
 app_license = "mit"
-
+fixtures = ["CRM Industry","CRM Deal Status","CRM Territory"]
 # Apps
 # ------------------
 

@@ -1,0 +1,366 @@
+[
+ {
+  "docstatus": 0,
+  "doctype": "CRM Industry",
+  "industry": "Accounting",
+  "modified": "2025-03-20 03:05:32.408753",
+  "name": "Accounting"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "CRM Industry",
+  "industry": "Advertising",
+  "modified": "2025-03-20 03:05:32.409488",
+  "name": "Advertising"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "CRM Industry",
+  "industry": "Agriculture",
+  "modified": "2025-03-20 03:05:32.410784",
+  "name": "Agriculture"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "CRM Industry",
+  "industry": "Airline",
+  "modified": "2025-03-20 03:05:32.411406",
+  "name": "Airline"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "CRM Industry",
+  "industry": "Apparel & Accessories",
+  "modified": "2025-03-20 03:05:32.412027",
+  "name": "Apparel & Accessories"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "CRM Industry",
+  "industry": "Automotive",
+  "modified": "2025-03-20 03:05:32.412678",
+  "name": "Automotive"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "CRM Industry",
+  "industry": "Banking",
+  "modified": "2025-03-20 03:05:32.413323",
+  "name": "Banking"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "CRM Industry",
+  "industry": "Biotechnology",
+  "modified": "2025-03-20 03:05:32.413963",
+  "name": "Biotechnology"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "CRM Industry",
+  "industry": "Broadcasting",
+  "modified": "2025-03-20 03:05:32.414610",
+  "name": "Broadcasting"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "CRM Industry",
+  "industry": "Brokerage",
+  "modified": "2025-03-20 03:05:32.415239",
+  "name": "Brokerage"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "CRM Industry",
+  "industry": "Chemical",
+  "modified": "2025-03-20 03:05:32.415871",
+  "name": "Chemical"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "CRM Industry",
+  "industry": "Computer",
+  "modified": "2025-03-20 03:05:32.416506",
+  "name": "Computer"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "CRM Industry",
+  "industry": "Consulting",
+  "modified": "2025-03-20 03:05:32.417138",
+  "name": "Consulting"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "CRM Industry",
+  "industry": "Consumer Products",
+  "modified": "2025-03-20 03:05:32.417767",
+  "name": "Consumer Products"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "CRM Industry",
+  "industry": "Cosmetics",
+  "modified": "2025-03-20 03:05:32.418392",
+  "name": "Cosmetics"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "CRM Industry",
+  "industry": "Defense",
+  "modified": "2025-03-20 03:05:32.419003",
+  "name": "Defense"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "CRM Industry",
+  "industry": "Department Stores",
+  "modified": "2025-03-20 03:05:32.419612",
+  "name": "Department Stores"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "CRM Industry",
+  "industry": "Electronics",
+  "modified": "2025-03-20 03:05:32.420851",
+  "name": "Electronics"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "CRM Industry",
+  "industry": "Energy",
+  "modified": "2025-03-20 03:05:32.421469",
+  "name": "Energy"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "CRM Industry",
+  "industry": "Entertainment & Leisure, Executive Search",
+  "modified": "2025-03-20 03:05:32.422083",
+  "name": "Entertainment & Leisure, Executive Search"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "CRM Industry",
+  "industry": "Financial Services",
+  "modified": "2025-03-20 03:05:32.422702",
+  "name": "Financial Services"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "CRM Industry",
+  "industry": "Food",
+  "modified": "2025-03-20 03:05:32.423321",
+  "name": "Food"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "CRM Industry",
+  "industry": "Beverage & Tobacco",
+  "modified": "2025-03-20 03:05:32.423941",
+  "name": "Beverage & Tobacco"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "CRM Industry",
+  "industry": "Grocery",
+  "modified": "2025-03-20 03:05:32.424570",
+  "name": "Grocery"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "CRM Industry",
+  "industry": "Internet Publishing",
+  "modified": "2025-03-20 03:05:32.425812",
+  "name": "Internet Publishing"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "CRM Industry",
+  "industry": "Investment Banking",
+  "modified": "2025-03-20 03:05:32.426424",
+  "name": "Investment Banking"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "CRM Industry",
+  "industry": "Legal",
+  "modified": "2025-03-20 03:05:32.427028",
+  "name": "Legal"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "CRM Industry",
+  "industry": "Manufacturing",
+  "modified": "2025-03-20 03:05:32.427642",
+  "name": "Manufacturing"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "CRM Industry",
+  "industry": "Motion Picture & Video",
+  "modified": "2025-03-20 03:05:32.428250",
+  "name": "Motion Picture & Video"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "CRM Industry",
+  "industry": "Music",
+  "modified": "2025-03-20 03:05:32.428870",
+  "name": "Music"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "CRM Industry",
+  "industry": "Newspaper Publishers",
+  "modified": "2025-03-20 03:05:32.429487",
+  "name": "Newspaper Publishers"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "CRM Industry",
+  "industry": "Online Auctions",
+  "modified": "2025-03-20 03:05:32.430100",
+  "name": "Online Auctions"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "CRM Industry",
+  "industry": "Pension Funds",
+  "modified": "2025-03-20 03:05:32.430714",
+  "name": "Pension Funds"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "CRM Industry",
+  "industry": "Pharmaceuticals",
+  "modified": "2025-03-20 03:05:32.431323",
+  "name": "Pharmaceuticals"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "CRM Industry",
+  "industry": "Private Equity",
+  "modified": "2025-03-20 03:05:32.431937",
+  "name": "Private Equity"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "CRM Industry",
+  "industry": "Publishing",
+  "modified": "2025-03-20 03:05:32.432562",
+  "name": "Publishing"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "CRM Industry",
+  "industry": "Real Estate",
+  "modified": "2025-03-20 03:05:32.433171",
+  "name": "Real Estate"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "CRM Industry",
+  "industry": "Retail & Wholesale",
+  "modified": "2025-03-20 03:05:32.433776",
+  "name": "Retail & Wholesale"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "CRM Industry",
+  "industry": "Securities & Commodity Exchanges",
+  "modified": "2025-03-20 03:05:32.434375",
+  "name": "Securities & Commodity Exchanges"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "CRM Industry",
+  "industry": "Service",
+  "modified": "2025-03-20 03:05:32.434984",
+  "name": "Service"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "CRM Industry",
+  "industry": "Soap & Detergent",
+  "modified": "2025-03-20 03:05:32.435594",
+  "name": "Soap & Detergent"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "CRM Industry",
+  "industry": "Telecommunications",
+  "modified": "2025-03-20 03:05:32.438050",
+  "name": "Telecommunications"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "CRM Industry",
+  "industry": "Television",
+  "modified": "2025-03-20 03:05:32.438663",
+  "name": "Television"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "CRM Industry",
+  "industry": "Transportation",
+  "modified": "2025-03-20 03:05:32.439319",
+  "name": "Transportation"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "CRM Industry",
+  "industry": "Venture Capital",
+  "modified": "2025-03-20 03:05:32.439933",
+  "name": "Venture Capital"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "CRM Industry",
+  "industry": "Sports",
+  "modified": "2025-03-20 03:05:32.436813",
+  "name": "Sports"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "CRM Industry",
+  "industry": "Health Care",
+  "modified": "2025-03-20 03:05:32.425194",
+  "name": "Health Care"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "CRM Industry",
+  "industry": "Aerospace",
+  "modified": "2025-03-20 03:05:32.410149",
+  "name": "Aerospace"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "CRM Industry",
+  "industry": "Education",
+  "modified": "2025-03-20 03:05:32.420222",
+  "name": "Education"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "CRM Industry",
+  "industry": "GOV",
+  "modified": "2025-04-18 16:18:26.294230",
+  "name": "GOV"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "CRM Industry",
+  "industry": "Software",
+  "modified": "2025-03-20 03:05:32.436195",
+  "name": "Software"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "CRM Industry",
+  "industry": "Technology",
+  "modified": "2025-03-20 03:05:32.437436",
+  "name": "Technology"
+ }
+]
